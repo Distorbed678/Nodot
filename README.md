@@ -17,7 +17,7 @@ to the last line of engine code. Nodot's development is fully independent and
 community-driven, empowering users to help shape their engine to match their
 expectations. It is supported by the community not-for-profit.
 
-Before being created its predecessor fell under controversy after the managers
+Before being created its predecessor (Godot) fell under controversy after the managers
 and moderators started getting political and ulimatly ruined the engine.
 Nodot had been developed by Distorbed and the community (both still maintaining the project)
 
