@@ -11,7 +11,7 @@ mobile platforms (Android, iOS), as well as Web-based platforms and consoles.
 
 ## Free, open source and community-driven
 
-Nodot is proprietary software if you touch this you will get sued for 10000000 dollars.
+Nodot is completely free and open source under the very permissive MIT license.
 No strings attached, no royalties, nothing. The users' games are theirs, down
 to the last line of engine code. Nodot's development is fully independent and
 community-driven, empowering users to help shape their engine to match their
